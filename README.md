@@ -13,9 +13,9 @@ __Tools used : Tableau, Power BI, MS SQL Server__
 
 [Dataset used](https://github.com/sharanya-27/HR-Analytics/files/14546814/hrdata.csv)
 
-[Tableau Dashboard](https://github.com/sharanya-27/HR-Analytics/assets/142989454/7ee835be-7022-4a40-b5fa-83102761455d)
+[Tableau Dashboard- click here to view](https://github.com/sharanya-27/HR-Analytics/assets/142989454/7ee835be-7022-4a40-b5fa-83102761455d)
 
-[click to interact with Tableau Dashboard](https://public.tableau.com/views/HRAnalyticsDashboard_17088846860500/HRAnalyticsDashboard?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)
+[Tableau Dashboard- click here to interact with the Dashboard](https://public.tableau.com/views/HRAnalyticsDashboard_17088846860500/HRAnalyticsDashboard?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)
 
 [Power BI Dashboard](https://github.com/sharanya-27/HR-Analytics/files/14546830/HR_Analytics_BI_Dashboard.pdf)
 
