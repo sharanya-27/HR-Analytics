@@ -48,6 +48,17 @@ __<h2>Data Visualization</h2>__
 
 __1) Tableau Dashboard__
 
+![HR Analytics Tableau Dashboard](https://github.com/sharanya-27/HR-Analytics/assets/142989454/2182dc75-cc1b-45d9-a8b9-2ecee6ecc2cc)
+
+![image](https://github.com/sharanya-27/HR-Analytics/assets/142989454/1937fe2f-2121-4822-b6a4-d292fda46b8a)
+
+
+
+
+
+
+
+
 
 
 
