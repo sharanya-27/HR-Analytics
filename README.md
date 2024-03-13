@@ -46,11 +46,94 @@ __<h2>DATA CLEANING:</h2>__
 
 __<h2>Data Visualization</h2>__
 
+__KPI:__
+
 __1) Tableau Dashboard__
 
 ![HR Analytics Tableau Dashboard](https://github.com/sharanya-27/HR-Analytics/assets/142989454/2182dc75-cc1b-45d9-a8b9-2ecee6ecc2cc)
 
-![image](https://github.com/sharanya-27/HR-Analytics/assets/142989454/1937fe2f-2121-4822-b6a4-d292fda46b8a)
+__2) Power BI Dashboard__
+
+![image](https://github.com/sharanya-27/HR-Analytics/assets/142989454/9e9c4335-58a2-4e64-8577-b12cc7d4e3c2)
+
+__<h2>Dashboard Contents</h2>__
+
+__1. Employee Count:__
+
+![image](https://github.com/sharanya-27/HR-Analytics/assets/142989454/954bc720-0271-4a88-b7c1-6913a07c0207)
+
+This metric helps the department to assess workforce size and plan for future growth or downsizing effectively.
+
+__2. Attrition Count:__
+
+![image](https://github.com/sharanya-27/HR-Analytics/assets/142989454/faab3f3c-870a-4355-b4b2-92cdc0843185)
+
+Gives a complete and reliable data on the number of employees who have left the organization.
+
+__3. Attrition Rate:__
+
+![image](https://github.com/sharanya-27/HR-Analytics/assets/142989454/79d996ab-5a2b-4d68-a811-b1b779937e38)
+
+Gives a clear measure of attrition rate, such that the organization can assess the overall turnover level or compare it with industry benchmarks, improving the ability to gauge employee satisfaction and engagement.
+
+__4. Active Employees:__
+
+![image](https://github.com/sharanya-27/HR-Analytics/assets/142989454/e6454fba-72f6-438a-8262-fcbfd60bb220)
+
+This metric differentiate between active and inactive employees, thus aids in accurately assessing the current workforce's productivity and capacity.
+
+__5. Average Age:__
+
+![image](https://github.com/sharanya-27/HR-Analytics/assets/142989454/eca1bc5e-0878-4d0d-abcb-bf4419b3b307)
+
+Gives insight into the average age of employees, making it easy to evaluate workforce demographics, succession planning, and the organization's ability to attract and retain younger talent.
+
+__Charts:__
+
+__1) Attrition by Gender:__
+
+![image](https://github.com/sharanya-27/HR-Analytics/assets/142989454/d106bfa1-aa05-43c9-9c9e-46140ddceb0c)
+
+Gives insight into the attrition patterns based on gender, making it difficult to identify any gender-related disparities and implement targeted retention strategies.
+
+__2) Department-wise Attrition:__
+
+![image](https://github.com/sharanya-27/HR-Analytics/assets/142989454/bb002f8e-7f4b-48a9-acb7-e509a528cdac)
+
+This visualization showcases attrition rates across different departments. This boosts their ability to identify departments with higher attrition rates and address any underlying issues or concerns effectively.
+
+__3) Number of Employees by Age Group:__
+
+![image](https://github.com/sharanya-27/HR-Analytics/assets/142989454/47fd090c-fec4-45f1-9790-3540f2aebd14)
+
+The HR department requires visual representations to analyze the distribution of employees across various age groups. This helps in assessing workforce demographics, identifying any age-related gaps or imbalances, and implementing targeted HR policies or programs.
+
+__4) Job Satisfaction Ratings:__
+
+![image](https://github.com/sharanya-27/HR-Analytics/assets/142989454/184db909-26ec-4fd4-bcca-5dec5e66bf66)
+
+This visualization is used to represent job satisfaction ratings, improving their ability to measure employee engagement and overall job satisfaction levels effectively.
+
+__5) Education Field-wise Attrition:__
+
+![image](https://github.com/sharanya-27/HR-Analytics/assets/142989454/254a6cdd-7d53-4f95-be43-f57e489dd611)
+
+This visual representations can be used to analyze attrition rates based on education fields. This helps identify specific educational backgrounds that may be associated with higher attrition, enabling the organization to tailor retention strategies accordingly.
+
+__6) Attrition Rate by Gender for Different Age Groups:__
+
+![image](https://github.com/sharanya-27/HR-Analytics/assets/142989454/c70ab8d7-d4bd-4564-bc83-56f1212e5e5b)
+
+This visualizations displays attrition rates based on gender and different age groups making it easy to identify any age and gender-related attrition trends, aiding the organization in implementing targeted retention strategies for specific employee segments.
+
+__<h2>QA Testing (Quality Assurance)<h2>__
+
+__Functional Validation -__ Testing if each feature works as per the requirement and verifying if all the filters and Action Filters on the report work as per the requirement.
+
+__Data Validation -__ Checking accuracy and quality of data and to match the values in Tableau and Power BI report with the SQL queries.
+
+
+
 
 
 
