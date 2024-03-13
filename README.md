@@ -128,6 +128,8 @@ This visualizations displays attrition rates based on gender and different age g
 
 __<h2>QA Testing (Quality Assurance)</h2>__
 
+[QA](https://github.com/sharanya-27/HR-Analytics/blob/main/SQL%20Analysis-%20Testing%20Tableau%20%26%20Power%20BI%20Reports)
+
 __Functional Validation -__ Testing if each feature works as per the requirement and verifying if all the filters and Action Filters on the report work as per the requirement.
 
 __Data Validation -__ Checking accuracy and quality of data and to match the values in Tableau and Power BI report with the SQL queries.
