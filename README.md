@@ -32,7 +32,7 @@ __<h2>STEPS OVERVIEW:</h2>__
 + Loading Libraries.  
 + Data Cleaning & Finding Missing values.  
 + Data Visualization.
-+ QA Testing(Quality Assurance)- Data Validation, Functional validation and Test Document creation. 
++ QA Testing(Quality Assurance)- Data Validation & Functional validation.
 
 __<h2>DATA CLEANING:</h2>__
 + Opening Dataset in Excel and Make a Copy of Dataset for security purpose.
@@ -127,21 +127,11 @@ __6) Attrition Rate by Gender for Different Age Groups:__
 This visualizations displays attrition rates based on gender and different age groups making it easy to identify any age and gender-related attrition trends, aiding the organization in implementing targeted retention strategies for specific employee segments.
 
 __<h2>QA Testing (Quality Assurance)</h2>__
+1) __Functional Validation -__ Testing if each feature works as per the requirement and verifying if all the filters and Action Filters on the report work as per the requirement.
 
-[QA](https://github.com/sharanya-27/HR-Analytics/blob/main/SQL%20Analysis-%20Testing%20Tableau%20%26%20Power%20BI%20Reports)
+2) __Data Validation -__ Checking accuracy and quality of data and to match the values in Tableau and Power BI report with the SQL queries.
 
-__Functional Validation -__ Testing if each feature works as per the requirement and verifying if all the filters and Action Filters on the report work as per the requirement.
-
-__Data Validation -__ Checking accuracy and quality of data and to match the values in Tableau and Power BI report with the SQL queries.
-
-
-
-
-
-
-
-
-
+[SQL Queries for Analyzing/Testing Reports](https://github.com/sharanya-27/HR-Analytics/blob/main/SQL%20Analysis-%20Testing%20Tableau%20%26%20Power%20BI%20Reports)
 
 
 
