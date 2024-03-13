@@ -126,7 +126,7 @@ __6) Attrition Rate by Gender for Different Age Groups:__
 
 This visualizations displays attrition rates based on gender and different age groups making it easy to identify any age and gender-related attrition trends, aiding the organization in implementing targeted retention strategies for specific employee segments.
 
-__<h2>QA Testing (Quality Assurance)<h2>__
+__<h2>QA Testing (Quality Assurance)</h2>__
 
 __Functional Validation -__ Testing if each feature works as per the requirement and verifying if all the filters and Action Filters on the report work as per the requirement.
 
