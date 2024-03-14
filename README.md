@@ -22,7 +22,7 @@ __Power BI Dashboard__
 [click here to interact with the Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODBhYzY1ZGEtMmM0OS00YjkwLTkxYzYtZTBiNWEzYjMyZDE4IiwidCI6IjZmMTFlMWQzLTEyMTAtNDk5YS1iMjY0LTU2NzA0NTY4OGUyNyJ9)
 
 __<h1>BUSINESS PROBLEM</h1>__
-A Company faces a challenge in efficiently analyzing and monitoring employee data to make informed decisions regarding retention, development, and recruitment strategies. This lack of comprehensive data analysis inhibits the ability to track progress in reducing attrition rates effectively. Furthermore, without detailed insights into employee demographics such as gender, age group, job satisfaction, and education field, it becomes difficult to identify trends and patterns that could inform targeted interventions.It is also required to create a test document to test/ QA the Dashboards developed on Tableau and Power BI. Thus, there is a pressing need for a solution that provides robust analytics capabilities, including trend analysis and demographic segmentation to empower HR managers and business leaders in making data-driven decisions for optimizing workforce management practices.
+A Company faces a challenge in efficiently analyzing and monitoring employee data to make informed decisions regarding retention, development, and recruitment strategies. This lack of comprehensive data analysis inhibits the ability to track progress in reducing attrition rates effectively. Furthermore, without detailed insights into employee demographics such as gender, age group, job satisfaction, and education field, it becomes difficult to identify trends and patterns that could inform targeted interventions.It is also required to test/ QA the Dashboards developed on Tableau and Power BI. Thus, there is a pressing need for a solution that provides robust analytics capabilities, including trend analysis and demographic segmentation to empower HR managers and business leaders in making data-driven decisions for optimizing workforce management practices.
 
 __<h1>SOLUTION</h1>__
 
@@ -46,8 +46,6 @@ __<h2>DATA CLEANING:</h2>__
 
 __<h2>Data Visualization</h2>__
 
-__KPI:__
-
 __1) Tableau Dashboard__
 
 ![HR Analytics Tableau Dashboard](https://github.com/sharanya-27/HR-Analytics/assets/142989454/2182dc75-cc1b-45d9-a8b9-2ecee6ecc2cc)
@@ -57,6 +55,8 @@ __2) Power BI Dashboard__
 ![image](https://github.com/sharanya-27/HR-Analytics/assets/142989454/9e9c4335-58a2-4e64-8577-b12cc7d4e3c2)
 
 __<h2>Dashboard Contents</h2>__
+
+__KPI:__
 
 __1. Employee Count:__
 
