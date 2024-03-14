@@ -133,6 +133,17 @@ __<h2>QA Testing (Quality Assurance)</h2>__
 
 [SQL Queries for Analyzing/Testing Reports](https://github.com/sharanya-27/HR-Analytics/blob/main/SQL%20Analysis-%20Testing%20Tableau%20%26%20Power%20BI%20Reports)
 
+__<h1>CONCLUSION</h1>__
+
+The HR Analytics Dashboard project utilizing Tableau, Power BI and SQL aims to offer comprehensive insights into essential HR metrics and trends within an organization. By employing visualizations and data analysis techniques, the dashboard facilitates HR professionals in discerning patterns and making informed, data-driven decisions. It encompasses key visualizations presenting an overarching view of HR-related metrics, including turnover rate, headcount, and employee engagement levels. Additionally, it provides insights into recruitment metrics such as time-to-fill and cost-per-hire.
+
+Moreover, the dashboard delves into employee performance metrics, including training and development, performance appraisals, and career progression, aiding HR professionals in identifying areas for enhancement and formulating strategies to bolster employee engagement and productivity.
+
+Featuring interactive functionalities enabling users to filter and drill down into specific data subsets like department, location, or job level, the dashboard facilitates a more granular analysis, simplifying the identification of patterns and trends.
+
+In essence, this project serves as a vital tool for HR professionals seeking deeper insights into their organization's HR data. Leveraging these robust data visualization and analysis tools, HR professionals can make informed decisions pivotal in driving organizational success. Furthermore, the project entailed thorough QA/testing of Tableau and Power BI reports using SQL queries to ensure accuracy and reliability.
+
+
 
 
 
