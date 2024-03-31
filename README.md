@@ -18,7 +18,7 @@ __Tableau Dashboard__
 [click here to interact with the Dashboard](https://public.tableau.com/views/HRAnalyticsDashboard_17088846860500/HRAnalyticsDashboard?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link) 
 
 __Power BI Dashboard__   
-[Power BI Dashboard](https://github.com/sharanya-27/HR-Analytics/files/14546830/HR_Analytics_BI_Dashboard.pdf)   
+[click here to view](https://github.com/sharanya-27/HR-Analytics/files/14546830/HR_Analytics_BI_Dashboard.pdf)   
 [click here to interact with the Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODBhYzY1ZGEtMmM0OS00YjkwLTkxYzYtZTBiNWEzYjMyZDE4IiwidCI6IjZmMTFlMWQzLTEyMTAtNDk5YS1iMjY0LTU2NzA0NTY4OGUyNyJ9)
 
 __<h1>BUSINESS PROBLEM</h1>__
