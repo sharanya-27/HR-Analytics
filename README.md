@@ -56,7 +56,7 @@ __2) Power BI Dashboard__
 
 __<h2>Dashboard Contents</h2>__
 
-__KPI:__
+__<h3>KPI:</h3>__
 
 __1. Employee Count:__
 
@@ -88,7 +88,7 @@ __5. Average Age:__
 
 Gives insight into the average age of employees, making it easy to evaluate workforce demographics, succession planning, and the organization's ability to attract and retain younger talent.
 
-__Charts:__
+__<h3>Charts:</h3>__
 
 __1) Attrition by Gender:__
 
